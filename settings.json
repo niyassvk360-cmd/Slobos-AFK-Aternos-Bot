@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HeartBondSMP.aternos.me",
+    "port": 12470,
     "version": "",
     "try-creative": false
   },
